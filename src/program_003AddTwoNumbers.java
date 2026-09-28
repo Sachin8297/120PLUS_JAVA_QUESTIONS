@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class program_3AddTwoNumbers {
+public class program_003AddTwoNumbers {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);// jo bhi system pr input diya h usko utha lo
         System.out.print("Enter the two number: ");

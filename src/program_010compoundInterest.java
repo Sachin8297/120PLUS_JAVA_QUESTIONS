@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class program_10compoundInterest {
+public class program_010compoundInterest {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to calculate the compound Interest: \n\n");

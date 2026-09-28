@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class program_6productFloating {
+public class program_006productFloating {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number 1: ");

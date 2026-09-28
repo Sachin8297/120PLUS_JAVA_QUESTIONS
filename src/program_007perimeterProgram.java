@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class program_7perimeterProgram {
+public class program_007perimeterProgram {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome to calculate the perimeter of rectangle");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class program_13positiveNegativeOrZero {
+public class program_013positiveNegativeOrZero {
     public static  void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Number: ");

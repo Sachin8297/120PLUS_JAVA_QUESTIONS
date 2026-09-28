@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class program_5arithmeticOperators {
+public class program_005arithmeticOperators {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the first number: ");

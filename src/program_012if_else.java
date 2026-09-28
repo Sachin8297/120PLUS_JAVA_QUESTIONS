@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class program_12if_else {
+public class program_012if_else {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to  driving licence \n");

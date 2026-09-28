@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class program_9simpleInterest {
+public class program_009simpleInterest {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome to calculate the Interest calculator");
