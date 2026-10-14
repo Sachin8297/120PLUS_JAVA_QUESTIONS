@@ -7,13 +7,13 @@ public class program_015greatestThreeNumbers {
         int num1 = sc.nextInt();
         System.out.print("Enter the Number2: ");
         int num2 = sc.nextInt();
-        System.out.print("Enter the number3: ");
+        System.out.print("finally, Enter the number3: ");
         int num3 = sc.nextInt();
 
         if (num1 >= num2 && num1 >= num3){
             System.out.println("The "+num1+ " is greatest");
         }
-        else if(num2 >= num1 && num2 >= num3){
+        else if(num2 >= num3){
             System.out.println("The "+num2+ " is greatest");
         }
         else {
